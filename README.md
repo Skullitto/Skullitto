@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 ---
 ## &#x1f4c8; My GitHub Stats
 
-[![Skulls-sky GitHub stats](https://github-readme-stats.vercel.app/api?username=Skulls-sky&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Skulls-sky GitHub stats](https://github-readme-stats.vercel.app/api?username=Skullitto&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Skulls-sky&layout=compact&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Skullitto&layout=compact&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
